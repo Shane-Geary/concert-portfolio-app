@@ -4,7 +4,19 @@ This application includes the functionality of a user being able to sign up, log
 
 <img width="1267" alt="Screen Shot 2021-07-16 at 8 33 08 AM" src="https://user-images.githubusercontent.com/59372986/125964259-20c7e344-cafa-407d-8ec5-1fbab05351ed.png">
 
-Explore: | [Demo:] (https://www.youtube.com/watch?v=DchzJiVGU0I&t=5s) | [Blog:] (https://shaneg25.github.io/concert_portfolio_my_ruby_on_rails_project)
+Explore: | [Blog:] (https://shaneg25.github.io/concert_portfolio_my_ruby_on_rails_project) 
+
+Demo:
+
+
+
+
+
+https://user-images.githubusercontent.com/59372986/126046098-547f974a-dc80-4924-a34b-574205c7a8b9.mp4
+
+
+
+
 
 Tech Stack
 
